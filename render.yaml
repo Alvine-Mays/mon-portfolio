@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: mon-portfolio
+    env: static
+    staticPublishPath: .
