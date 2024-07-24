@@ -256,11 +256,11 @@ body a:hover
 /* HOME SECTION */
 
 .intro-page 
-{
+{ 
     padding-bottom: 170px;
     min-height: calc(100vh - 170px);
     background-color: #221c5a; 
-    background-image:url(demo-images/background_img_01b.jpg); 
+    background-image:url(./image/background_img_01b.jpg); 
     background-repeat: repeat; 
     background-position: center top; 
     background-size: cover;
@@ -368,7 +368,7 @@ h1.big-title
 #portfolio
 {
     background-color: #221C5A; 
-    background-image: url("demo-images/background_img_02.jpg"); 
+    background-image: url("./image/background_img_02.jpg"); 
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: auto;
@@ -566,7 +566,7 @@ div.pp_default .pp_loaderIcon
 #about
 {
     background-color: rgb(34, 28, 90); 
-    background-image: url("demo-images/background_img_03.jpg"); 
+    background-image: url("./image/background_img_03.jpg"); 
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover; 
@@ -641,7 +641,7 @@ div.pp_default .pp_loaderIcon
 #news
 {
     background-color: rgb(34, 28, 90); 
-    background-image: url("demo-images/background_img_04.jpg"); 
+    background-image: url("./image/background_img_04.jpg"); 
     background-repeat: no-repeat; 
     background-position: center center; 
     background-size: cover; 
@@ -752,7 +752,7 @@ div.pp_default .pp_loaderIcon
 #video
 {
     background-color: rgb(34, 28, 90); 
-    background-image: url("demo-images/background_img_06.jpg"); 
+    background-image: url("./image/background_img_06.jpg"); 
     background-repeat: repeat-x; 
     background-position: center center; 
     background-size: auto; 
@@ -812,7 +812,7 @@ a.video-popup-holder:hover img.popup-play
 #skills
 {
     background-color: rgb(34, 28, 90); 
-    background-image: url("demo-images/item_background_01.jpg"); 
+    background-image: url("./image/item_background_01.jpg"); 
     background-repeat: no-repeat; 
     background-position: left top; 
     background-size: 100%; 
@@ -890,7 +890,7 @@ a.video-popup-holder:hover img.popup-play
 #contact
 {
     background-color: rgb(34, 28, 90); 
-    background-image: url("demo-images/background_img_05b.jpg"); 
+    background-image: url("./image/background_img_05b.jpg"); 
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: auto; 
@@ -1111,7 +1111,7 @@ footer
 #portfolio-1
 {
     background-color: #221c5a;
-    background-image:url("demo-images/background_img_05b.jpg"); 
+    background-image:url("./image/background_img_05b.jpg"); 
     background-repeat: no-repeat;
     background-position: center top;
     background-size: auto; 
@@ -1121,7 +1121,7 @@ footer
 {
 
     background-color: #221c5a;
-    background-image: url(demo-images/item_background_01.jpg);
+    background-image: url(./image/item_background_01.jpg);
     background-repeat: no-repeat;
     background-position: left top;
     background-size: 100% auto;
