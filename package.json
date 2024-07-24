@@ -4,7 +4,8 @@
   "description": "mon portfolio",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "echo 'Start Static Site'",
+    "build": "echo 'Build Static Site'"
   },
   "author": "",
   "license": "ISC"
