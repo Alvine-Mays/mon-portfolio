@@ -3,3 +3,5 @@ services:
     name: mon-portfolio
     env: static
     staticPublishPath: .
+
+
